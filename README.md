@@ -1,4 +1,4 @@
-# LOVEhtml
+# Lovehtml
 [点击查看](https://we11cheng.github.io/WCStaticHTML/)
 
 <https://we11cheng.github.io/WCStaticHTML/>
